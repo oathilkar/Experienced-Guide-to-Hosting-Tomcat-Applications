@@ -11,7 +11,7 @@ I am creating an experienced guide for hosting Tomcat applications involves cove
 #### **1. Introduction**
    - Overview of Apache Tomcat : https://github.com/oathilkar/Experienced-Guide-to-Hosting-Tomcat-Applications/blob/main/Overview%20of%20Apache%20Tomcat
    - Importance of Tomcat in Java-based web applications :
-   - Typical use cases and scenarios for Tomcat hosting
+   - Typical use cases and scenarios for Tomcat hosting : https://github.com/oathilkar/Experienced-Guide-to-Hosting-Tomcat-Applications/blob/main/Typical%20Use%20Cases%20and%20Scenarios%20for%20Tomcat%20Hosting
 
 #### **2. Installation and Setup**
    - **2.1 Prerequisites**
